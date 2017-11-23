@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2017. Plesk International GmbH. -->
+<module>
+    <id>event-listener-example</id>
+    <name>Event Listener Example</name>
+    <description>Event Listener SDK API usage example</description>
+    <version>1.0</version>
+    <release>1</release>
+    <vendor>Plesk</vendor>
+    <url>https://github.com/plesk/ext-event-listener-example</url>
+    <plesk_min_version>17.5.2</plesk_min_version>
+</module>
