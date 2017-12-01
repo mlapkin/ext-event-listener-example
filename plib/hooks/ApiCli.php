@@ -23,4 +23,9 @@ class Modules_EventListenerExample_ApiCli extends pm_Hook_ApiCli
 
         return $actions;
     }
+
+    public function submitCommand()
+    {
+        pm_ActionLog::submit('test_action');
+    }
 }
